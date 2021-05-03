@@ -1,0 +1,4 @@
+private.pem
+private.key
+client.secret
+node_modules/*

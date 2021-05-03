@@ -1,0 +1,25 @@
+{
+  "name": "dispatch-app",
+  "version": "1.0.0",
+  "description": "Source code for github app used so other repos can trigger actions without authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benkaiser/dispatch-app.git"
+  },
+  "author": "Benjamin Kaiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benkaiser/dispatch-app/issues"
+  },
+  "homepage": "https://github.com/benkaiser/dispatch-app#readme",
+  "dependencies": {
+    "@octokit/auth-app": "^3.4.0",
+    "@octokit/core": "^3.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
