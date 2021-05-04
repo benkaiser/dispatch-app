@@ -1,10 +1,10 @@
 {
   "name": "dispatch-app",
   "version": "1.0.0",
-  "description": "Source code for github app used so other repos can trigger actions without authentication.",
-  "main": "index.js",
+  "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
   },
   "repository": {
     "type": "git",
