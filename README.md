@@ -1,2 +1,3 @@
-# dispatch-app
-Source code for github app used so other repos can trigger actions without authentication.
+# Public Action Trigger
+
+[See Github App for detailed informatino](https://github.com/apps/public-action-trigger)
